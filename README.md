@@ -2,6 +2,6 @@
 Quiero un crédito
 
 
-Competición de Kaggle realizada en el Bootcamp de Data Science en las que tras llevar tres días aprendiendo logaritmos de clasificación de Machine Learning tuvimos que clasificar como apto o no apto a un cliente a la hora de concederle un crédito.
+Competición de Kaggle realizada en el Bootcamp de Data Science en las que tras llevar menos de una semana aprendiendo logaritmos de clasificación de Machine Learning tuvimos que desarrollar un modelo de clasificación que clasificara como apto o no apto a un cliente a la hora de concederle un crédito.
 La métrica utilizada es AUC
-Esta competición se llevo a cabo con otro compañero del bootcamp
+Esta competición la llevamos a cabo dos compañeros del bootcamp en un fin de semana 
